@@ -2,10 +2,16 @@
 using System.Collections;
 [RequireComponent(typeof(CharacterController))]
 public class AdvancedMovement : MonoBehaviour {
+	
+
 
 	//Mob
 
 	//run, jump, fall, idle
+
+	//Player
+
+	//run. jump, fall, idle, strafe, 
 
 
 	public enum State {
